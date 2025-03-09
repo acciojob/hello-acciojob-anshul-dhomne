@@ -1,12 +1,13 @@
-/* Style for the main element */
-main#job.accio {
-    width: 150px;
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.accio{
     height: 150px;
+    width: 150px;
     background-color: #000000;
 }
-
-/* Style for the p element with class hello-accio */
-.hello-accio {
+.hello-accio{
     color: #ffffff;
     margin-left: 32px;
     padding: 10px;
